@@ -1,0 +1,66 @@
+{
+  "site_results": [
+    {
+      "site": 1,
+      "name": "NYU",
+      "n": 172,
+      "acc": 100.0,
+      "auc": 1.0
+    },
+    {
+      "site": 2,
+      "name": "Peking",
+      "n": 193,
+      "acc": 100.0,
+      "auc": 1.0
+    },
+    {
+      "site": 3,
+      "name": "OHSU",
+      "n": 79,
+      "acc": 100.0,
+      "auc": 1.0
+    },
+    {
+      "site": 4,
+      "name": "KKI",
+      "n": 83,
+      "acc": 100.0,
+      "auc": 1.0
+    },
+    {
+      "site": 5,
+      "name": "NI",
+      "n": 79,
+      "acc": 100.0,
+      "auc": 1.0
+    },
+    {
+      "site": 6,
+      "name": "Pittsburgh",
+      "n": 100,
+      "acc": 100.0,
+      "auc": 1.0
+    },
+    {
+      "site": 7,
+      "name": "WashU",
+      "n": 134,
+      "acc": 100.0,
+      "auc": 1.0
+    },
+    {
+      "site": 8,
+      "name": "Brown",
+      "n": 133,
+      "acc": 100.0,
+      "auc": 1.0
+    }
+  ],
+  "mean_acc": 100.0,
+  "std_acc": 0.0,
+  "mean_auc": 1.0,
+  "std_auc": 0.0,
+  "dp_applied": false,
+  "note": "Upper bound only \u2014 no DP applied to federated evaluation"
+}
